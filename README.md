@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&text=T0vich&fontColor=ffffff&fontSize=82&fontAlignY=36&desc=Frontend%20%26%20Backend%20Developer&descAlignY=56&descSize=20&animation=fadeIn" alt="aurora header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&text=T0vich&fontColor=ffffff&fontSize=82&fontAlignY=36&desc=Frontend%20%C2%B7%20Backend%20Developer&descAlignY=56&descSize=20&animation=fadeIn" alt="aurora header"/>
 
 <a href="https://github.com/T0vich">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=920&height=75&lines=Hi%2C+I'm+Fedor+%E2%80%94+full-stack+developer;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Tailwind;Python+%C2%B7+FastAPI+%C2%B7+aiogram+%C2%B7+PostgreSQL;I+ship+real+products%2C+not+demos" alt="Typing SVG" />
