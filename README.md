@@ -32,7 +32,7 @@
 
 ## ⟡ &nbsp;About
 
-<img align="right" width="30%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="laptop"/>
+<img align="right" width="30%" src="assets/monogram.svg" alt="TVCH monogram"/>
 
 I build **complete products end to end** — a real backend, a real database, and a frontend
 people actually enjoy using. Not tutorials, not half-finished demos: apps that are deployed
@@ -46,10 +46,34 @@ and keep running.
 
 <br clear="right"/>
 
+<div align="center">
+
+<img width="76%" src="assets/terminal.svg" alt="whoami"/>
+
+</div>
+
 > **`🔒` A note on the code**
 > Most repositories on this profile are **showcase cards** — the source stays private.
 > Each write-up describes the real architecture, and I'm happy to walk through the code
 > or grant access on request.
+
+<img width="100%" src="assets/divider.svg" alt="divider"/>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                             HOW I BUILD                               ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
+
+## ⟡ &nbsp;How I build
+
+<div align="center">
+
+*The shape almost every project here takes — clients on the left, data on the right,<br/>and a typed, async application layer in between.*
+
+<br/>
+
+<img width="100%" src="assets/architecture.svg" alt="architecture: clients, application, data"/>
+
+</div>
 
 <img width="100%" src="assets/divider.svg" alt="divider"/>
 
@@ -60,6 +84,10 @@ and keep running.
 ## ⟡ &nbsp;Tech Stack
 
 <div align="center">
+
+<img width="100%" src="assets/stack-marquee.svg" alt="tech stack"/>
+
+<br/><br/>
 
 **`◈` Languages**
 
@@ -312,6 +340,8 @@ A discrete-event model of a parcel hub at ~100k items/hour across ~400 destinati
 <!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
+
+<img width="100%" src="assets/constellation.svg" alt="constellation"/>
 
 ## ⟡ &nbsp;Get in touch
 

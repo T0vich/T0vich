@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 150" width="380" height="150" role="img" aria-label="TVCH monogram">
+  <defs>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#glow)" transform="translate(0,8)">
+    <path d="M20,30 H90" fill="none" stroke="#5EEAD4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.020;0.180;0.88;1" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M55,30 V110" fill="none" stroke="#22D3EE" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.100;0.260;0.88;1" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M110,30 L145,110 L180,30" fill="none" stroke="#8B5CF6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.180;0.340;0.88;1" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M270,48 A40,40 0 1,0 270,92" fill="none" stroke="#EC4899" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.300;0.460;0.88;1" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M290,30 V110" fill="none" stroke="#A78BFA" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.420;0.580;0.88;1" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M360,30 V110" fill="none" stroke="#F472B6" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.480;0.640;0.88;1" dur="9s" repeatCount="indefinite"/></path>
+    <path d="M290,70 H360" fill="none" stroke="#22D3EE" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" pathLength="1" stroke-dasharray="1" stroke-dashoffset="1"><animate attributeName="stroke-dashoffset" values="1;1;0;0;1" keyTimes="0;0.540;0.700;0.88;1" dur="9s" repeatCount="indefinite"/></path>
+  </g>
+  <text x="190" y="140" text-anchor="middle" font-family="Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif" font-size="12" letter-spacing="6" fill="#7E8CA8">T0VICH</text>
+</svg>
