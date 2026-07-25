@@ -101,7 +101,7 @@ and keep running.
 
 <br/>
 
-<a href="https://github.com/T0vich/sirenart"><img width="88%" src="https://raw.githubusercontent.com/T0vich/sirenart/main/assets/home.png" alt="SirenART"/></a>
+<a href="https://github.com/T0vich/sirenart"><img width="88%" src="assets/sirenart.png" alt="SirenART"/></a>
 
 ### [SirenART](https://github.com/T0vich/sirenart) &nbsp;·&nbsp; bilingual art-commerce
 
@@ -121,7 +121,7 @@ with the entire catalogue editable by the artist from Telegram.<br/>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/tvoymatematik"><img width="100%" src="https://raw.githubusercontent.com/T0vich/tvoymatematik/main/assets/dashboard.png" alt="Tvoy Matematik"/></a>
+<a href="https://github.com/T0vich/tvoymatematik"><img width="100%" src="assets/tvoymatematik.png" alt="Tvoy Matematik"/></a>
 
 #### [`⬢` Твой математик](https://github.com/T0vich/tvoymatematik)
 
@@ -134,7 +134,7 @@ A working studio for a private maths tutor — scheduling, auto-graded homework,
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/pollwave"><img width="100%" src="https://raw.githubusercontent.com/T0vich/pollwave/main/assets/landing.png" alt="PollWave"/></a>
+<a href="https://github.com/T0vich/pollwave"><img width="100%" src="assets/pollwave.png" alt="PollWave"/></a>
 
 #### [`⬢` PollWave](https://github.com/T0vich/pollwave)
 
@@ -149,7 +149,7 @@ Live audience polling — share a link or QR code, watch votes land in real time
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/tickr"><img width="100%" src="https://raw.githubusercontent.com/T0vich/tickr/main/assets/markets.png" alt="Tickr"/></a>
+<a href="https://github.com/T0vich/tickr"><img width="100%" src="assets/tickr.png" alt="Tickr"/></a>
 
 #### [`⬢` Tickr](https://github.com/T0vich/tickr)
 
@@ -162,7 +162,7 @@ A live crypto dashboard with self-drawing SVG charts, and a `live → cached →
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/momentum"><img width="100%" src="https://raw.githubusercontent.com/T0vich/momentum/main/assets/dashboard.png" alt="Momentum"/></a>
+<a href="https://github.com/T0vich/momentum"><img width="100%" src="assets/momentum.png" alt="Momentum"/></a>
 
 #### [`⬢` Momentum](https://github.com/T0vich/momentum)
 
@@ -177,7 +177,7 @@ A habit tracker where streaks are computed server-side from check-in history, so
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/flowboard"><img width="100%" src="https://raw.githubusercontent.com/T0vich/flowboard/main/assets/board.png" alt="Flowboard"/></a>
+<a href="https://github.com/T0vich/flowboard"><img width="100%" src="assets/flowboard.png" alt="Flowboard"/></a>
 
 #### [`⬢` Flowboard](https://github.com/T0vich/flowboard)
 
@@ -190,7 +190,7 @@ A drag-and-drop Kanban board on the native HTML5 API with Motion layout animatio
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/trimr"><img width="100%" src="https://raw.githubusercontent.com/T0vich/trimr/main/assets/analytics.png" alt="Trimr"/></a>
+<a href="https://github.com/T0vich/trimr"><img width="100%" src="assets/trimr.png" alt="Trimr"/></a>
 
 #### [`⬢` Trimr](https://github.com/T0vich/trimr)
 
@@ -205,7 +205,7 @@ A URL shortener whose redirect route *is* the analytics pipeline — anonymous c
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/quizzly"><img width="100%" src="https://raw.githubusercontent.com/T0vich/quizzly/main/assets/question.png" alt="Quizzly"/></a>
+<a href="https://github.com/T0vich/quizzly"><img width="100%" src="assets/quizzly.png" alt="Quizzly"/></a>
 
 #### [`⬢` Quizzly](https://github.com/T0vich/quizzly)
 
@@ -218,7 +218,7 @@ Fast trivia on an explicit `setup → playing → results` state machine, with a
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/inkwell"><img width="100%" src="https://raw.githubusercontent.com/T0vich/inkwell/main/assets/notes.png" alt="Inkwell"/></a>
+<a href="https://github.com/T0vich/inkwell"><img width="100%" src="assets/inkwell.png" alt="Inkwell"/></a>
 
 #### [`⬢` Inkwell](https://github.com/T0vich/inkwell)
 
