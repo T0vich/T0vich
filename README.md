@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&text=T0vich&fontColor=ffffff&fontSize=82&fontAlignY=36&desc=Frontend%20%C2%B7%20Backend%20Developer&descAlignY=56&descSize=20&animation=fadeIn" alt="aurora header"/>
+<img width="100%" src="assets/aurora-header.svg" alt="T0vich — frontend and backend developer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=920&height=75&lines=Hi%2C+I'm+Fedor+%E2%80%94+full-stack+developer;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Tailwind;Python+%C2%B7+FastAPI+%C2%B7+aiogram+%C2%B7+PostgreSQL;I+ship+real+products%2C+not+demos" alt="Typing SVG"/>
 
@@ -24,7 +24,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                               ABOUT                                   ║ -->
@@ -51,7 +51,7 @@ and keep running.
 > Each write-up describes the real architecture, and I'm happy to walk through the code
 > or grant access on request.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:8B5CF6,70:22D3EE,100:2DD4BF&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                             TECH STACK                                ║ -->
@@ -87,7 +87,7 @@ and keep running.
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                            SELECTED WORK                              ║ -->
@@ -232,7 +232,7 @@ Each project ships with a typed REST backend,<br/>a swappable storage layer and 
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:8B5CF6,70:22D3EE,100:2DD4BF&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                        BACKEND & SYSTEMS WORK                         ║ -->
@@ -305,7 +305,7 @@ A discrete-event model of a parcel hub at ~100k items/hour across ~400 destinati
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&height=3&section=header" alt="divider"/>
+<img width="100%" src="assets/divider.svg" alt="divider"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                                CONTACT                                ║ -->
@@ -323,4 +323,4 @@ A discrete-event model of a parcel hub at ~100k items/hour across ~400 destinati
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:EC4899,35:8B5CF6,70:22D3EE,100:2DD4BF&section=footer&reversal=true" alt="aurora footer"/>
+<img width="100%" src="assets/aurora-footer.svg" alt="footer"/>
