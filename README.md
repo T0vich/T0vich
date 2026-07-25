@@ -15,8 +15,8 @@
 
 <br/><br/>
 
-<!-- ─────────────── live products ─────────────── -->
-<a href="https://tvoymatematik.vercel.app"><img src="https://img.shields.io/badge/live-tvoymatematik-2DD4BF?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="tvoymatematik live"/></a> <a href="https://sirenart.vercel.app/en"><img src="https://img.shields.io/badge/live-sirenart-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="sirenart live"/></a> <a href="mailto:tovichxbox@gmail.com"><img src="https://img.shields.io/badge/email-tovichxbox%40gmail.com-EC4899?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="email"/></a>
+<!-- ─────────────── contact ─────────────── -->
+<a href="mailto:tovichxbox@gmail.com"><img src="https://img.shields.io/badge/tovichxbox%40gmail.com-EC4899?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="email"/></a>
 
 <br/>
 
@@ -101,17 +101,17 @@ and keep running.
 
 <br/>
 
-<a href="https://github.com/T0vich/sirenart"><img width="88%" src="assets/sirenart.png" alt="SirenART"/></a>
+<a href="https://github.com/T0vich/tvoymatematik"><img width="88%" src="assets/tvoymatematik.png" alt="Tvoy Matematik"/></a>
 
-### [SirenART](https://github.com/T0vich/sirenart) &nbsp;·&nbsp; bilingual art-commerce
+### [Твой математик](https://github.com/T0vich/tvoymatematik) &nbsp;·&nbsp; a studio for a private tutor
 
-<a href="https://sirenart.vercel.app/en"><img src="https://img.shields.io/badge/live-sirenart.vercel.app-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="live"/></a> <img src="https://img.shields.io/badge/commissioned-EC4899?style=flat-square&logo=handshake&logoColor=white&labelColor=0D1117" alt="commissioned"/>
+<img src="https://img.shields.io/badge/in_production-2DD4BF?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0D1117" alt="in production"/> <img src="https://img.shields.io/badge/three_user_roles-8B5CF6?style=flat-square&logo=auth0&logoColor=white&labelColor=0D1117" alt="three roles"/>
 
-A storefront released in **seasonal capsules** instead of a flat catalogue, fully localised EN/RU,<br/>
-with the entire catalogue editable by the artist from Telegram.<br/>
-*Built to commission — the brand belongs to the client.*
+Scheduling, homework with auto-grading, payment balances and progress tracking —<br/>
+built as three different products behind one login: tutor on a laptop,<br/>
+student on a phone in the evening, parent checking what they pay for.
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres,vercel&theme=dark" height="38" alt="stack"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,prisma,postgres&theme=dark" height="38" alt="stack"/>
 
 </div>
 
@@ -121,82 +121,54 @@ with the entire catalogue editable by the artist from Telegram.<br/>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/tvoymatematik"><img width="100%" src="assets/tvoymatematik.png" alt="Tvoy Matematik"/></a>
-
-#### [`⬢` Твой математик](https://github.com/T0vich/tvoymatematik)
-
-<a href="https://tvoymatematik.vercel.app"><img src="https://img.shields.io/badge/live-2DD4BF?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="live"/></a>
-
-A working studio for a private maths tutor — scheduling, auto-graded homework, payments and progress, serving tutor, student and parent as three different products.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,tailwind&theme=dark" height="32" alt="stack"/>
-
-</td>
-<td width="50%" valign="top">
-
 <a href="https://github.com/T0vich/pollwave"><img width="100%" src="assets/pollwave.png" alt="PollWave"/></a>
 
 #### [`⬢` PollWave](https://github.com/T0vich/pollwave)
 
-<img src="https://img.shields.io/badge/real--time-2DD4BF?style=flat-square&logo=fastly&logoColor=white&labelColor=0D1117" alt="real time"/>
+<img src="https://img.shields.io/badge/real--time-2DD4BF?style=flat-square&logo=fastly&logoColor=white&labelColor=0D1117" alt="real--time"/>
 
 Live audience polling — share a link or QR code, watch votes land in real time, and project the results in a dedicated presenter mode.
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="32" alt="stack"/>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/T0vich/tickr"><img width="100%" src="assets/tickr.png" alt="Tickr"/></a>
 
 #### [`⬢` Tickr](https://github.com/T0vich/tickr)
 
-<img src="https://img.shields.io/badge/hand--built_charts-22D3EE?style=flat-square&logo=svg&logoColor=white&labelColor=0D1117" alt="charts"/>
+<img src="https://img.shields.io/badge/hand--built_charts-22D3EE?style=flat-square&logo=svg&logoColor=white&labelColor=0D1117" alt="hand--built_charts"/>
 
 A live crypto dashboard with self-drawing SVG charts, and a `live → cached → fallback` chain so it never shows a broken state.
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="32" alt="stack"/>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/T0vich/momentum"><img width="100%" src="assets/momentum.png" alt="Momentum"/></a>
 
 #### [`⬢` Momentum](https://github.com/T0vich/momentum)
 
-<img src="https://img.shields.io/badge/timezone--safe-8B5CF6?style=flat-square&logo=googlecalendar&logoColor=white&labelColor=0D1117" alt="timezone safe"/>
+<img src="https://img.shields.io/badge/timezone--safe-8B5CF6?style=flat-square&logo=googlecalendar&logoColor=white&labelColor=0D1117" alt="timezone--safe"/>
 
 A habit tracker where streaks are computed server-side from check-in history, so they can never drift — with heatmaps and animated rings.
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="32" alt="stack"/>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://github.com/T0vich/flowboard"><img width="100%" src="assets/flowboard.png" alt="Flowboard"/></a>
 
 #### [`⬢` Flowboard](https://github.com/T0vich/flowboard)
 
-<img src="https://img.shields.io/badge/native_HTML5_DnD-EC4899?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117" alt="dnd"/>
+<img src="https://img.shields.io/badge/native_HTML5_DnD-EC4899?style=flat-square&logo=html5&logoColor=white&labelColor=0D1117" alt="native_HTML5_DnD"/>
 
 A drag-and-drop Kanban board on the native HTML5 API with Motion layout animations — no drag library, small bundle, predictable behaviour.
-
-<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="32" alt="stack"/>
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/T0vich/trimr"><img width="100%" src="assets/trimr.png" alt="Trimr"/></a>
-
-#### [`⬢` Trimr](https://github.com/T0vich/trimr)
-
-<img src="https://img.shields.io/badge/privacy--aware-2DD4BF?style=flat-square&logo=torbrowser&logoColor=white&labelColor=0D1117" alt="privacy"/>
-
-A URL shortener whose redirect route *is* the analytics pipeline — anonymous click tracking with daily trends, referrers and devices.
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="32" alt="stack"/>
 
@@ -205,28 +177,56 @@ A URL shortener whose redirect route *is* the analytics pipeline — anonymous c
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/quizzly"><img width="100%" src="assets/quizzly.png" alt="Quizzly"/></a>
+<a href="https://github.com/T0vich/trimr"><img width="100%" src="assets/trimr.png" alt="Trimr"/></a>
 
-#### [`⬢` Quizzly](https://github.com/T0vich/quizzly)
+#### [`⬢` Trimr](https://github.com/T0vich/trimr)
 
-<img src="https://img.shields.io/badge/state_machine-8B5CF6?style=flat-square&logo=xstate&logoColor=white&labelColor=0D1117" alt="state machine"/>
+<img src="https://img.shields.io/badge/privacy--aware-2DD4BF?style=flat-square&logo=torbrowser&logoColor=white&labelColor=0D1117" alt="privacy--aware"/>
 
-Fast trivia on an explicit `setup → playing → results` state machine, with a 20-second timer and a persistent leaderboard.
+A URL shortener whose redirect route *is* the analytics pipeline — anonymous click tracking with daily trends, referrers and devices.
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="32" alt="stack"/>
 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://github.com/T0vich/quizzly"><img width="100%" src="assets/quizzly.png" alt="Quizzly"/></a>
+
+#### [`⬢` Quizzly](https://github.com/T0vich/quizzly)
+
+<img src="https://img.shields.io/badge/state_machine-8B5CF6?style=flat-square&logo=xstate&logoColor=white&labelColor=0D1117" alt="state_machine"/>
+
+Fast trivia on an explicit `setup → playing → results` state machine, with a 20-second timer and a persistent leaderboard.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="32" alt="stack"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/T0vich/inkwell"><img width="100%" src="assets/inkwell.png" alt="Inkwell"/></a>
 
 #### [`⬢` Inkwell](https://github.com/T0vich/inkwell)
 
-<img src="https://img.shields.io/badge/editor_UX-22D3EE?style=flat-square&logo=markdown&logoColor=white&labelColor=0D1117" alt="editor"/>
+<img src="https://img.shields.io/badge/editor_UX-22D3EE?style=flat-square&logo=markdown&logoColor=white&labelColor=0D1117" alt="editor_UX"/>
 
 Markdown notes with a live split-pane preview, debounced autosave and a hand-written prose stylesheet tuned for reading.
 
 <img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="32" alt="stack"/>
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<br/><br/><br/>
+
+### `◈` &nbsp;More on the way
+
+Each project ships with a typed REST backend,<br/>a swappable storage layer and full architecture docs.
+
+<a href="https://github.com/T0vich?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="all repositories"/></a>
+
+<br/><br/>
 
 </td>
 </tr>
@@ -301,7 +301,7 @@ A discrete-event model of a parcel hub at ~100k items/hour across ~400 destinati
 
 <div align="center">
 
-**Also:** [SirenART Admin Bot](https://github.com/T0vich/sirenart-bot) — a Telegram bot used as the CMS for the SirenART storefront, writing straight into the shared Neon database. *Commissioned work.*
+*Client and commissioned work is not published here — happy to walk through it on request.*
 
 </div>
 
@@ -315,7 +315,7 @@ A discrete-event model of a parcel hub at ~100k items/hour across ~400 destinati
 
 ## ⟡ &nbsp;Get in touch
 
-<a href="mailto:tovichxbox@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email"/></a> <a href="https://github.com/T0vich"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="github"/></a> <a href="https://tvoymatematik.vercel.app"><img src="https://img.shields.io/badge/Live_work-22D3EE?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117" alt="live work"/></a>
+<a href="mailto:tovichxbox@gmail.com"><img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="email"/></a> <a href="https://github.com/T0vich?tab=repositories"><img src="https://img.shields.io/badge/Projects-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="projects"/></a>
 
 **Open to frontend, backend and full-stack roles — remote.**
 
