@@ -116,28 +116,81 @@ and keep running.
 
 ## ⟡ &nbsp;Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/T0vich/tvoymatematik">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=tvoymatematik&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="tvoymatematik"/>
-</a>
-<a href="https://github.com/T0vich/telegram-game-bot">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=telegram-game-bot&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="telegram-game-bot"/>
-</a>
-<a href="https://github.com/T0vich/abkit">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=abkit&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="abkit"/>
-</a>
-<a href="https://github.com/T0vich/pulse">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=pulse&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="pulse"/>
-</a>
-<a href="https://github.com/T0vich/sirenart">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=sirenart&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="sirenart"/>
-</a>
-<a href="https://github.com/T0vich/pollwave">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=pollwave&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="pollwave"/>
-</a>
+#### [`⬢` Твой математик](https://github.com/T0vich/tvoymatematik)
 
-</div>
+<a href="https://tvoymatematik.vercel.app"><img src="https://img.shields.io/badge/live-2DD4BF?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="live"/></a>
+
+A working studio for a private maths tutor — scheduling, auto-graded homework, payment tracking and student progress, for three very different users.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,prisma,postgres,tailwind,vercel&theme=dark" height="34" alt="stack"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### [`⬢` Telegram Game Platform](https://github.com/T0vich/telegram-game-bot)
+
+<img src="https://img.shields.io/badge/platform_core-8B5CF6?style=flat-square&logo=telegram&logoColor=white&labelColor=0D1117" alt="platform"/>
+
+A multi-chat game bot built as a *platform*, so game modules drop in later without an architecture rewrite. Bot, API and worker as separate services.
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker&theme=dark" height="34" alt="stack"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [`⬢` abkit](https://github.com/T0vich/abkit)
+
+<img src="https://img.shields.io/badge/statistics-EC4899?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" alt="statistics"/>
+
+An A/B-testing analytics engine that takes significance seriously: Welch, Mann–Whitney, bootstrap, CUPED, Holm correction and SRM detection over ClickHouse.
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker&theme=dark" height="34" alt="stack"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### [`⬢` PULSE](https://github.com/T0vich/pulse)
+
+<img src="https://img.shields.io/badge/zero--token-22D3EE?style=flat-square&logo=anthropic&logoColor=white&labelColor=0D1117" alt="zero token"/>
+
+A self-hosted monitor for Claude Code usage and limits that costs nothing to run — it only reads local transcripts, so it can never inflate what it measures.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,python&theme=dark" height="34" alt="stack"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [`⬢` SirenART](https://github.com/T0vich/sirenart)
+
+<a href="https://sirenart.vercel.app/en"><img src="https://img.shields.io/badge/live-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="live"/></a>
+<img src="https://img.shields.io/badge/commissioned-EC4899?style=flat-square&logo=handshake&logoColor=white&labelColor=0D1117" alt="commissioned"/>
+
+A bilingual art-commerce storefront released in seasonal capsules, with the whole catalogue editable from Telegram. Built to commission — the brand is the client's.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,postgres&theme=dark" height="34" alt="stack"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### [`⬢` PollWave](https://github.com/T0vich/pollwave)
+
+<img src="https://img.shields.io/badge/real--time-2DD4BF?style=flat-square&logo=fastly&logoColor=white&labelColor=0D1117" alt="real time"/>
+
+Live audience polling — share a link or QR code, watch votes land in real time, and project the results in a dedicated presenter mode.
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,react,tailwind&theme=dark" height="34" alt="stack"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -183,12 +236,13 @@ an animated frontend, and architecture + deploy docs.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=T0vich&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590&ring_color=EC4899" alt="github stats"/>
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0vich&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&title_color=8B5CF6&text_color=7D8590" alt="top languages"/>
-
-<br/>
-
 <img width="90%" src="https://streak-stats.demolab.com?user=T0vich&background=00000000&hide_border=true&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakNum=A855F7&sideNums=22D3EE&currStreakLabel=8B5CF6&sideLabels=7D8590&dates=7D8590" alt="streak"/>
+
+<br/><br/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T0vich&theme=transparent" alt="profile details"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T0vich&theme=transparent" alt="repos per language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T0vich&theme=transparent" alt="most committed language"/>
 
 <br/><br/>
 
