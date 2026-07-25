@@ -1,311 +1,245 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                              HEADER SECTION                              -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                            AURORA / HEADER                            ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,13,20,24,30&text=T0vich&fontColor=ffffff&fontSize=80&fontAlignY=38&desc=Software%20Developer%20%7C%20Python%20%C2%B7%20C%23%20%C2%B7%20C%2B%2B%20%C2%B7%20Arduino&descAlignY=58&descSize=20&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&text=T0vich&fontColor=ffffff&fontSize=82&fontAlignY=36&desc=Frontend%20%26%20Backend%20Developer&descAlignY=56&descSize=20&animation=fadeIn" alt="aurora header"/>
 
 <a href="https://github.com/T0vich">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&height=70&lines=Software+Developer;Python+%E2%80%A2+C%23+%E2%80%A2+C%2B%2B+%E2%80%A2+Arduino;Building+%E2%80%A2+Learning+%E2%80%A2+Creating;Always+exploring+new+technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=27&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=920&height=75&lines=Hi%2C+I'm+Fedor+%E2%80%94+full-stack+developer;Next.js+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Tailwind;Python+%C2%B7+FastAPI+%C2%B7+aiogram+%C2%B7+PostgreSQL;I+ship+real+products%2C+not+demos" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Identity Badges -->
-<img src="https://img.shields.io/badge/Software-Developer-6D28D9?style=for-the-badge&logo=dev.to&logoColor=white" alt="role"/>
-<img src="https://img.shields.io/badge/Open%20to-Collaborate-7C3AED?style=for-the-badge&logo=handshake&logoColor=white" alt="open to"/>
+<!-- ─────────────── identity badges ─────────────── -->
+<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPER-0D1117?style=for-the-badge&labelColor=22D3EE&color=8B5CF6" alt="role"/>
+<img src="https://img.shields.io/badge/FRONTEND-%2B%20BACKEND-0D1117?style=for-the-badge&labelColor=8B5CF6&color=EC4899" alt="focus"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-0D1117?style=for-the-badge&labelColor=EC4899&color=2DD4BF" alt="open to work"/>
 
 <br/><br/>
 
-<!-- Action Buttons -->
+<!-- ─────────────── live products ─────────────── -->
+<a href="https://tvoymatematik.vercel.app">
+  <img src="https://img.shields.io/badge/live-tvoymatematik-2DD4BF?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="tvoymatematik live"/>
+</a>
+<a href="https://sirenart.vercel.app/en">
+  <img src="https://img.shields.io/badge/live-sirenart-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="sirenart live"/>
+</a>
 <a href="mailto:tovichxbox@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/T0vich">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/email-tovichxbox%40gmail.com-EC4899?style=flat-square&logo=gmail&logoColor=white&labelColor=0D1117" alt="email"/>
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Stat Badges -->
-<img src="https://komarev.com/ghpvc/?username=T0vich&label=Profile%20Views&color=8b5cf6&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/T0vich?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1b4b" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/T0vich?label=Stars&style=flat-square&color=6d28d9&labelColor=1e1b4b" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=T0vich&label=profile+views&color=8b5cf6&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/T0vich?label=followers&style=flat-square&color=22D3EE&labelColor=0D1117" alt="followers"/>
+<img src="https://img.shields.io/github/stars/T0vich?label=stars&style=flat-square&color=EC4899&labelColor=0D1117" alt="stars"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&height=3&section=header" alt="divider"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                               ABOUT SECTION                              -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                               ABOUT                                   ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; About Me
+## ⟡ &nbsp;About
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="laptop"/>
+<img align="right" width="34%" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="laptop"/>
 
-I'm **T0vich**, a **Software Developer** passionate about building things that work — from clean desktop applications to low-level systems and hands-on hardware projects.
+I build **complete products end to end** — a real backend, a real database, and a frontend
+people actually enjoy using. Not tutorials, not half-finished demos: apps that are deployed
+and keep running.
 
-- 💻 **Software Engineering** — I write maintainable, well-structured code with a focus on clarity, performance, and solid fundamentals.
-- 🐍 **Python** — Automation, scripting, tooling, and rapid prototyping.
-- 🧩 **C# / .NET** — Desktop applications and structured, object-oriented software.
-- ⚙️ **C++** — Systems-level programming with an emphasis on performance and control.
-- 🔌 **Arduino / Embedded** — Bringing software to life on real hardware: IoT, microcontrollers, and electronics.
-- 🚀 **Always Learning** — Constantly exploring new technologies and leveling up my craft.
-
-> **Open To** &nbsp;·&nbsp; Software Development &nbsp;·&nbsp; Embedded / IoT Projects &nbsp;·&nbsp; Open Source Collaboration &nbsp;·&nbsp; Learning Opportunities
+- **`⬢` Frontend** — Next.js 16, React 19, TypeScript, Tailwind v4, Motion. Server-render first, then hydrate into interactive islands.
+- **`⬢` Backend** — FastAPI and Next route handlers. Typed REST APIs, swappable storage layers, async all the way down.
+- **`⬢` Data** — PostgreSQL / Neon, Prisma, Redis, ClickHouse, SQLite. Migrations with Prisma and Alembic.
+- **`⬢` Bots & automation** — Telegram platforms on aiogram 3: FSM flows, Mini Apps, admin panels, background workers.
+- **`⬢` Shipping** — Docker Compose, GitHub Actions, Vercel. If it isn't deployed, it isn't done.
 
 <br clear="right"/>
 
----
+> **`🔒` A note on the code**
+> Most repositories on this profile are **showcase cards** — the source stays private.
+> Each write-up describes the real architecture, and I'm happy to walk through the code
+> or grant access on request.
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                             TECH STACK SECTION                           -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:8B5CF6,70:22D3EE,100:2DD4BF&height=3&section=header" alt="divider"/>
 
-## 🛠️ &nbsp; Tech Stack
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                             TECH STACK                                ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
+
+## ⟡ &nbsp;Tech Stack
 
 <div align="center">
 
-#### Languages
-<img src="https://skillicons.dev/icons?i=python,cs,cpp&theme=dark" alt="languages"/>
+**`◈` Languages**
 
-#### Embedded &amp; Hardware
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="embedded"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,html,css,bash&theme=dark" alt="languages"/>
 
-#### Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,visualstudio&theme=dark" alt="tools"/>
+**`◈` Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark" alt="frontend"/>
+
+**`◈` Backend &amp; APIs**
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,prisma,nginx&theme=dark" alt="backend"/>
+
+**`◈` Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,redis&theme=dark" alt="databases"/>
+<img src="https://img.shields.io/badge/Neon-0D1117?style=for-the-badge&logo=postgresql&logoColor=2DD4BF" alt="neon"/>
+<img src="https://img.shields.io/badge/ClickHouse-0D1117?style=for-the-badge&logo=clickhouse&logoColor=EC4899" alt="clickhouse"/>
+
+**`◈` DevOps &amp; Tooling**
+
+<img src="https://skillicons.dev/icons?i=docker,vercel,githubactions,git,linux,vscode&theme=dark" alt="devops"/>
+
+**`◈` Python ecosystem**
+
+<img src="https://img.shields.io/badge/aiogram_3-0D1117?style=for-the-badge&logo=telegram&logoColor=22D3EE" alt="aiogram"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=for-the-badge&logo=python&logoColor=8B5CF6" alt="sqlalchemy"/>
+<img src="https://img.shields.io/badge/Alembic-0D1117?style=for-the-badge&logo=python&logoColor=EC4899" alt="alembic"/>
+<img src="https://img.shields.io/badge/SimPy-0D1117?style=for-the-badge&logo=python&logoColor=2DD4BF" alt="simpy"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=22D3EE" alt="numpy"/>
+<img src="https://img.shields.io/badge/pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=8B5CF6" alt="pytest"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&height=3&section=header" alt="divider"/>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          FEATURED PROJECTS                            ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
+
+## ⟡ &nbsp;Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/T0vich/tvoymatematik">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=tvoymatematik&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="tvoymatematik"/>
+</a>
+<a href="https://github.com/T0vich/telegram-game-bot">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=telegram-game-bot&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="telegram-game-bot"/>
+</a>
+<a href="https://github.com/T0vich/abkit">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=abkit&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="abkit"/>
+</a>
+<a href="https://github.com/T0vich/pulse">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=pulse&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="pulse"/>
+</a>
+<a href="https://github.com/T0vich/sirenart">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=sirenart&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="sirenart"/>
+</a>
+<a href="https://github.com/T0vich/pollwave">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=T0vich&repo=pollwave&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590" alt="pollwave"/>
+</a>
+
+</div>
 
 <br/>
 
-<sub>🚧 Frontend · Backend · Cloud — <i>в процессе заполнения</i></sub>
+### `◈` Products &amp; platforms
 
-</div>
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[Твой математик](https://github.com/T0vich/tvoymatematik)** <br/> <a href="https://tvoymatematik.vercel.app"><img src="https://img.shields.io/badge/live-2DD4BF?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="live"/></a> | Tutoring platform for a maths tutor: scheduling, homework with auto-grading, payment tracking and per-student progress. | `Next.js 16` `TypeScript` `Prisma` `Neon Postgres` `Tailwind` `Vercel` |
+| **[Telegram Game Platform](https://github.com/T0vich/telegram-game-bot)** | Multi-chat game bot **platform core** — built so game modules (duels, titles, achievements, seasons) drop in without an architecture rewrite. | `Python 3.12` `aiogram 3` `FastAPI` `PostgreSQL 16` `SQLAlchemy async` `Alembic` `Redis` `Dramatiq` `Docker` |
+| **[abkit](https://github.com/T0vich/abkit)** | A/B-testing analytics engine: metric aggregation and **statistical significance** over large datasets, exposed through an async HTTP API. | `Python` `FastAPI` `ClickHouse` `NumPy` `SciPy` `pytest` |
+| **[PULSE](https://github.com/T0vich/pulse)** | Self-hosted, **zero-token** monitor for Claude Code usage and limits. Reads local transcripts only — it can never increase your usage. | `Next.js` `Telegram Mini App` `PWA` `Telegram Bot` |
 
----
+### `◈` Client &amp; commissioned work
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                         TECHNICAL EXPERTISE SECTION                      -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+| Project | What it is | Stack |
+|:--|:--|:--|
+| **[SirenART](https://github.com/T0vich/sirenart)** <br/> <a href="https://sirenart.vercel.app/en"><img src="https://img.shields.io/badge/live-8B5CF6?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117" alt="live"/></a> | Bilingual (EN/RU) art-commerce site — catalogue, seasonal capsules, cart and checkout. *Built to commission for the SirenART brand; I developed it, the brand is the client's.* | `Next.js 16` `React 19` `Neon Postgres` `Motion` `Tailwind v4` |
+| **[SirenART Admin Bot](https://github.com/T0vich/sirenart-bot)** | Telegram bot acting as a CMS for the site above: products, capsules, site copy, enquiries, settings and stats — writing straight into the shared Neon database. *Commissioned work.* | `Python 3.12` `aiogram 3` `Neon Postgres` |
+| **[Sorting Centre Simulation](https://github.com/T0vich/robozon)** | Discrete-event model of a high-throughput parcel sorting centre, with a metrics dashboard and 3D replay. *Team entry for a hackathon track set by the organising company.* | `Python` `SimPy` `FastAPI` `React` `Three.js` |
 
-## 🧠 &nbsp; Technical Expertise
+### `◈` Full-stack app collection
+
+Seven self-contained apps — each with a typed REST backend, a swappable storage layer,
+an animated frontend, and architecture + deploy docs.
+
+| Project | What it is | Highlight |
+|:--|:--|:--|
+| **[PollWave](https://github.com/T0vich/pollwave)** | Live audience polling — share a link or QR code, watch votes land in real time, present on the big screen. | Presenter mode, single/multi-select |
+| **[Tickr](https://github.com/T0vich/tickr)** | Live crypto market dashboard with sparklines, a self-drawing area chart and a watchlist. | `live → cached → fallback` degradation |
+| **[Momentum](https://github.com/T0vich/momentum)** | Habit tracker — daily check-ins become streaks, heatmaps and animated progress rings. | Server-side streak maths, timezone-safe |
+| **[Flowboard](https://github.com/T0vich/flowboard)** | Drag-and-drop Kanban board with buttery layout animations. | Native HTML5 DnD + Motion layout |
+| **[Inkwell](https://github.com/T0vich/inkwell)** | Markdown notes with live split-pane preview, full-text search and debounced autosave. | Real editor UX, XSS-aware rendering |
+| **[Quizzly](https://github.com/T0vich/quizzly)** | Trivia game — 20-second timer, instant feedback, persistent leaderboard. | Game state machine, resilient external API |
+| **[Trimr](https://github.com/T0vich/trimr)** | URL shortener that tracks every click: daily trends, referrers, device breakdown. | Redirect-and-track pipeline, hand-built UA parsing |
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:8B5CF6,70:22D3EE,100:2DD4BF&height=3&section=header" alt="divider"/>
+
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                              STATISTICS                               ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
+
+## ⟡ &nbsp;GitHub Stats
 
 <div align="center">
 
-| Domain | Proficiency | Details |
-|:-------|:-----------:|:--------|
-| **Python** | ⭐⭐⭐⭐☆ | Automation, scripting, tooling, rapid prototyping |
-| **C# / .NET** | ⭐⭐⭐⭐☆ | Desktop apps, OOP, structured application development |
-| **C++** | ⭐⭐⭐☆☆ | Systems programming, performance-focused code |
-| **Arduino / Embedded** | ⭐⭐⭐⭐☆ | Microcontrollers, IoT, hardware & electronics |
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                          FEATURED PROJECTS SECTION                       -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🚀 &nbsp; Featured Projects
-
-<details open>
-<summary><b>🔹 &nbsp; Проекты — в процессе заполнения</b></summary>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=T0vich&show_icons=true&include_all_commits=true&rank_icon=github&bg_color=00000000&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=7D8590&ring_color=EC4899" alt="github stats"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0vich&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&title_color=8B5CF6&text_color=7D8590" alt="top languages"/>
 
 <br/>
 
-🚧 &nbsp; Здесь скоро появятся избранные проекты со стеком, масштабом, производительностью, безопасностью, влиянием и ссылками на репозитории.
+<img width="90%" src="https://streak-stats.demolab.com?user=T0vich&background=00000000&hide_border=true&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakNum=A855F7&sideNums=22D3EE&currStreakLabel=8B5CF6&sideLabels=7D8590&dates=7D8590" alt="streak"/>
 
-<div align="center">
+<br/><br/>
 
-| Attribute | Detail |
-|:----------|:-------|
-| **Stack** | _в процессе заполнения_ |
-| **Scale** | _в процессе заполнения_ |
-| **Performance** | _в процессе заполнения_ |
-| **Security** | _в процессе заполнения_ |
-| **Impact** | _в процессе заполнения_ |
-| **Repository** | _в процессе заполнения_ |
+<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=T0vich&bg_color=00000000&color=8B5CF6&line=22D3EE&point=EC4899&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Aurora" alt="activity graph"/>
 
 </div>
 
-</details>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2DD4BF,30:22D3EE,65:8B5CF6,100:EC4899&height=3&section=header" alt="divider"/>
 
----
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          CONTRIBUTION SNAKE                           ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                            EXPERIENCE SECTION                            -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 💼 &nbsp; Experience
-
-🚧 &nbsp; **Опыт работы — в процессе заполнения.**
-
-> Должности, компании, периоды и описание обязанностей будут добавлены здесь.
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                           ACHIEVEMENTS SECTION                           -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🏆 &nbsp; Achievements
+## ⟡ &nbsp;Contribution Snake
 
 <div align="center">
 
-| Recognition | Details |
-|:-----------:|:--------|
-| 🚧 **В процессе заполнения** | Достижения и награды будут добавлены здесь |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T0vich/T0vich/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T0vich/T0vich/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/T0vich/T0vich/output/snake.svg" />
+</picture>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,35:8B5CF6,70:22D3EE,100:2DD4BF&height=3&section=header" alt="divider"/>
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                          CERTIFICATIONS SECTION                          -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔═══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                                CONTACT                                ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════════╝ -->
 
-## 📜 &nbsp; Certifications
-
-<div align="center">
-
-🚧 &nbsp; **Сертификаты — в процессе заполнения.**
-
-<sub>Будут сгруппированы по провайдерам (AWS · Oracle · NPTEL · Cisco) в виде бейджей.</sub>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                          CODING PROFILES SECTION                         -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## ⚔️ &nbsp; Coding Profiles
-
-<div align="center">
-
-🚧 &nbsp; **Профили — в процессе заполнения.**
-
-<sub>LeetCode · GeeksforGeeks · HackerRank · CodeChef — ссылки будут добавлены здесь.</sub>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                          GITHUB ANALYTICS SECTION                        -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 📊 &nbsp; GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=T0vich&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="github stats"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=T0vich&theme=react&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6" alt="streak stats"/>
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T0vich&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9&langs_count=8" alt="top languages"/>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                           GITHUB TROPHIES SECTION                        -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🎖️ &nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=T0vich&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                        CONTRIBUTION ACTIVITY SECTION                     -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 📈 &nbsp; Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=T0vich&theme=react-dark&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=ffffff&hide_border=true&area=true" alt="activity graph"/>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                         CONTRIBUTION SNAKE SECTION                       -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🐍 &nbsp; Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/T0vich/T0vich/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                           CURRENT FOCUS SECTION                          -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🎯 &nbsp; Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - "Software architecture & clean code"
-    - "Embedded systems & IoT development"
-  building:
-    - "Personal projects in Python, C# and C++"
-    - "Arduino-powered hardware experiments"
-  exploring:
-    - "New frameworks, tools and technologies"
-    - "Low-level & systems programming"
-  open_to:
-    - "Software development opportunities"
-    - "Open source collaboration & learning"
-```
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                              CONNECT SECTION                             -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-## 🤝 &nbsp; Connect With Me
+## ⟡ &nbsp;Get in touch
 
 <div align="center">
 
 <a href="mailto:tovichxbox@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899" alt="email"/>
 </a>
 <a href="https://github.com/T0vich">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="github"/>
+</a>
+<a href="https://tvoymatematik.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Work-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="live work"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+***Open to frontend, backend and full-stack roles — remote.***
 
-<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!--                               FOOTER SECTION                             -->
-<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
-
-<div align="center">
-
-> *"Code is craft — turning ideas into things that work."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12,13,20,24,30&section=footer&animation=fadeIn" alt="footer"/>
+*Happy to give a code walkthrough of any project here.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:EC4899,35:8B5CF6,70:22D3EE,100:2DD4BF&section=footer&reversal=true" alt="aurora footer"/>

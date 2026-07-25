@@ -1,12 +1,12 @@
 name: Generate Snake Animation
 
 on:
-  # Запуск по расписанию — каждые 12 часов
+  # Каждые 12 часов
   schedule:
     - cron: "0 */12 * * *"
   # Ручной запуск из вкладки Actions
   workflow_dispatch:
-  # Запуск при пуше в main
+  # При пуше в main
   push:
     branches:
       - main
@@ -23,9 +23,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Aurora: teal -> cyan -> violet -> pink
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#8B5CF6&color_dots=#1e1b4b,#4c1d95,#7c3aed,#a78bfa,#ede9fe
+            dist/snake.svg?color_snake=#8B5CF6&color_dots=#eef6f8,#a5f3fc,#22D3EE,#8B5CF6,#EC4899
+            dist/snake-dark.svg?palette=github-dark&color_snake=#22D3EE&color_dots=#161b22,#0e7490,#22D3EE,#8B5CF6,#EC4899
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
